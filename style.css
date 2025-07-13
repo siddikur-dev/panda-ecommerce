@@ -9,7 +9,17 @@
     margin: auto;
 }
 
-.flex{
+.flex {
     display: flex;
     justify-content: space-around;
+}
+
+.btn {
+    color: white;
+    background-color: #FF136F;
+    padding: 10px 25px;
+    border-radius: 8px;
+    border: none;
+
+
 }
