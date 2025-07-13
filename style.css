@@ -1,4 +1,15 @@
-*{
+/* google font */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+* {
+    font-family: "Inter", sans-serif;
     max-width: 1420px;
     margin: auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
 }
